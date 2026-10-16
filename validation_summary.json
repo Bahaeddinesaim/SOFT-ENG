@@ -1,0 +1,14 @@
+{
+  "TP3_Integration": {
+    "tests": 44,
+    "failures": 0,
+    "sales_processing_coverage": 100.0,
+    "git_head": "0f2cde730b79e644274f1b5c73f526c785bea245"
+  },
+  "TP4_FastAPI": {
+    "tests": 64,
+    "failures": 0,
+    "sales_processing_coverage": 100.0,
+    "git_head": "3200efe2008f5c2e7c82cc67316d91b4beef1c10"
+  }
+}
